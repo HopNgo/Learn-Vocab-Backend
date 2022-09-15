@@ -10,7 +10,7 @@
 
 ## Frontend Git
 
-Link : https://github.com/HopNgo/Learn-Vocab-Frontend.git
+Link : https://github.com/HopNgo/Lean-Vocab-Frontend.git
 
 ## Clone project and run test
 
